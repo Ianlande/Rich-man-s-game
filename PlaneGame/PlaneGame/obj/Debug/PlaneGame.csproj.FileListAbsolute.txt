@@ -1,0 +1,7 @@
+D:\Csharp_program\PlaneGame\PlaneGame\bin\Debug\PlaneGame.exe.config
+D:\Csharp_program\PlaneGame\PlaneGame\bin\Debug\PlaneGame.exe
+D:\Csharp_program\PlaneGame\PlaneGame\bin\Debug\PlaneGame.pdb
+D:\Csharp_program\PlaneGame\PlaneGame\obj\Debug\PlaneGame.csprojAssemblyReference.cache
+D:\Csharp_program\PlaneGame\PlaneGame\obj\Debug\PlaneGame.csproj.CoreCompileInputs.cache
+D:\Csharp_program\PlaneGame\PlaneGame\obj\Debug\PlaneGame.exe
+D:\Csharp_program\PlaneGame\PlaneGame\obj\Debug\PlaneGame.pdb
